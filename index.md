@@ -1,7 +1,7 @@
-﻿# Project Name/Title Goes Here
-This will serve as a brief description of your project. Limit this to three sentences because it can become overly long at that point. This copy should draw the user in and make she/him want to read more.
+﻿# SMart Mirror
+The SmartMirror, using raspebery pi is a display that portrays a mirror with defearent features upon it. features can be added and custamized to ones linlig.
 
-| **Engineer** | **School** | **Area of Interest** | **Grade** |
+| **Rishi S** | **The Overlake School** | **Artificial Intelligence** | **Rising Junior** |
 |:--:|:--:|:--:|:--:|
 | Firstname Lastname | Current Highschool | Electrical Engineering | Incoming Senior
 
