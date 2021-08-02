@@ -1,4 +1,4 @@
-﻿# SMart Mirror
+﻿# Smart Mirror
 The SmartMirror, using raspebery pi is a display that portrays a mirror with defearent features upon it. features can be added and custamized to ones linlig.
 
 | **Engineer**| **School** | **Area of Interest** | **Grade** |
