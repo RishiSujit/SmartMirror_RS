@@ -18,11 +18,14 @@ My first milestone was completing the setup of my Raspberry Pi. While this seems
 
   [![Rishi S Milestone 1](https://res.cloudinary.com/marcomontalbano/image/upload/v1627914301/video_to_markdown/images/youtube--m_xaRimipMA-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/m_xaRimipMA "Rishi S Milestone 1"){:target="_blank" rel="noopener"}
   
-# Final Milestone
+# Second Milestone
+ 
+  
+  # Final Milestone
  
 
 
-# Second Milestone
+
 
 
 
