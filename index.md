@@ -6,8 +6,7 @@ The SmartMirror, using raspebery pi is a display that portrays a mirror with def
 | Rishi S | The Overlake School | Artificial Intelligence | Rising Junior |
 
 
-![Headstone Image](https://bluestampengineering.com/wp-content/uploads/2016/05/improve.jpg)
-
+![Headstone Image]
 # First Milestone
   
 
