@@ -26,6 +26,13 @@ My first milestone was completing the setup of my Raspberry Pi. While this seems
  My second milestone was completing the downloads and installation of modules. This is the software aspect of my project and adding these modules to my Raspberry Pi enabled me to fully customize my mirror. I could add and download weather, sports and even time modules. Using these modules I got to design the layout of my mirror moving modules around to create the best fit.
   
 I downloaded multiple modules and experimented with them, and even edited some of them. Once I had downloaded a couple of my favorite modules, I had a working smart mirror. I hadnt added the mirror aspect but all of my software was working. I wanted to add something to my project however, and I started expeimenting with making my own module from scratch, a slow challenging endeavor. In addition I started to plan out modifications to my project including using motion detectors to control the mirror and adding buttons and leds to enhance the feature as well.
+
+The steps behind installing and using modules was to import base framework for the modules and then using the MagicMirror's config file to expand upon what was given and customize and create your own magic mirror.
+
+</HTML>
+
+
+[![Rishi S Milestone 1](https://res.cloudinary.com/marcomontalbano/image/upload/v1627914301/video_to_markdown/images/youtube--m_xaRimipMA-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/zEvley5kcnc"){:target="_blank" rel="noopener"}
   # Final Milestone
  
 
