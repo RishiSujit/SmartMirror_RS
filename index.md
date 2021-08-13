@@ -34,7 +34,7 @@ I downloaded multiple modules and experimented with them, and even edited some o
 To implement different features I found base framework from GitHub and expanded and changed upon it using my own twist and code, to create unique personalized modules. The first feature I implementing was making the time show on the magic mirror in 12 hour PST with am and pm as well. Nex I set up a feature that implemented both the current weather and the weather forecast. This combined two other features that was used and created a neat way to see the weather on my mirrpr. In addition I also used a modules that showed the live updating socres from my favorite sports team all the way until 24 hours after the game. I had experimented with other modules yet due to to my 10 inch moniter I couldn't add  as much in without ruining the astetect. 
 
 To implemet the modules I had to use the config file. the config file was made up from code from the langauage JavaScript. I have never used this before so it took a while to get the hang of it. All the configurations and code for my modules were in that file, and when the mirrpr was displayed it reflected the outputs of my code in the config file.
-</HTML>
+
 
 
 [![Rishi S BSE Milestone 2](https://res.cloudinary.com/marcomontalbano/image/upload/v1628863461/video_to_markdown/images/youtube--zEvley5kcnc-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/zEvley5kcnc "Rishi S BSE Milestone 2"){:target="_blank" rel="noopener"}
@@ -52,6 +52,7 @@ The final step of my project was implementing my mirror, I unpacaked my mirror a
 [![Rishi S BSE Milestone 3](https://res.cloudinary.com/marcomontalbano/image/upload/v1628863329/video_to_markdown/images/youtube--QvMukE7loQE-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/QvMukE7loQE "Rishi S BSE Milestone 3"){:target="_blank" rel="noopener"}
 
  # Demo Night + Reflection
+ 
 During this project I learned a lot about myself and how much I could get done if I put myy mind to it. I could do so much and do whatever I wanted with this project which really was cool as I controlled this project in full. In addition I learned that I find only software a tad bit boring and would love to incorporate some hardware.
 
 [![Rishi S Demo Night](https://res.cloudinary.com/marcomontalbano/image/upload/v1628863529/video_to_markdown/images/youtube--OGERabkCByk-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/OGERabkCByk "Rishi S Demo Night"){:target="_blank" rel="noopener"}
