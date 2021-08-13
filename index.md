@@ -37,7 +37,7 @@ To implemet the modules I had to use the config file. the config file was made u
 </HTML>
 
 
-[![Rishi S Milestone 2](https://res.cloudinary.com/marcomontalbano/image/upload/v1627914301/video_to_markdown/images/youtube--m_xaRimipMA-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/zEvley5kcnc"){:target="_blank" rel="noopener"}
+[![Rishi S Milestone 2]](https://youtu.be/zEvley5kcnc"){:target="_blank" rel="noopener"}
   # Final Milestone
  
 My final Milestone was completing the modifications to my project. I had wanted to be able to manually control and move my mirror. Using push buttons, bread boards, wires and resistors I created a circuit allowing my buttton to directly control my pi. To test out if the button worked in the terminal I ran a python test to see if the Pi recieved notifications when my button was pushed.
