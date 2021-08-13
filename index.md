@@ -51,7 +51,7 @@ The final step of my project was implementing my mirror, I unpacaked my mirror a
 
 [![Rishi S BSE Milestone 3](https://res.cloudinary.com/marcomontalbano/image/upload/v1628863329/video_to_markdown/images/youtube--QvMukE7loQE-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/QvMukE7loQE "Rishi S BSE Milestone 3"){:target="_blank" rel="noopener"}
 
- # Demo Night + Reflection
+# Demo Night and Reflection
  
 During this project I learned a lot about myself and how much I could get done if I put myy mind to it. I could do so much and do whatever I wanted with this project which really was cool as I controlled this project in full. In addition I learned that I find only software a tad bit boring and would love to incorporate some hardware.
 
