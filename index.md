@@ -37,8 +37,8 @@ To implemet the modules I had to use the config file. the config file was made u
 </HTML>
 
 
-[![Rishi S Milestone 2]](https://youtu.be/zEvley5kcnc"){:target="_blank" rel="noopener"}
-  # Final Milestone
+[![Rishi S BSE Milestone 2](https://res.cloudinary.com/marcomontalbano/image/upload/v1628863461/video_to_markdown/images/youtube--zEvley5kcnc-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/zEvley5kcnc "Rishi S BSE Milestone 2"){:target="_blank" rel="noopener"}
+# Final Milestone
  
 My final Milestone was completing the modifications to my project. I had wanted to be able to manually control and move my mirror. Using push buttons, bread boards, wires and resistors I created a circuit allowing my buttton to directly control my pi. To test out if the button worked in the terminal I ran a python test to see if the Pi recieved notifications when my button was pushed.
 
@@ -49,8 +49,11 @@ I had also experimented with the touch sensor: another external tool that reacte
 The final step of my project was implementing my mirror, I unpacaked my mirror and placed my monitor behind it and finnaly had a functioning smartmirror!
 
 
-[![Rishi S Milestone 3](https://res.cloudinary.com/marcomontalbano/image/upload/v1627914301/video_to_markdown/images/youtube--m_xaRimipMA-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/QvMukE7loQE"){:target="_blank" rel="noopener"}
+[![Rishi S BSE Milestone 3](https://res.cloudinary.com/marcomontalbano/image/upload/v1628863329/video_to_markdown/images/youtube--QvMukE7loQE-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/QvMukE7loQE "Rishi S BSE Milestone 3"){:target="_blank" rel="noopener"}
 
+ # Demo Night + Reflection
+During this project I learned a lot about myself and how much I could get done if I put myy mind to it. I could do so much and do whatever I wanted with this project which really was cool as I controlled this project in full. In addition I learned that I find only software a tad bit boring and would love to incorporate some hardware.
 
+[![Rishi S Demo Night](https://res.cloudinary.com/marcomontalbano/image/upload/v1628863529/video_to_markdown/images/youtube--OGERabkCByk-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/OGERabkCByk "Rishi S Demo Night"){:target="_blank" rel="noopener"}
 
 
